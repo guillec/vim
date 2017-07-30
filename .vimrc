@@ -20,6 +20,6 @@ set hlsearch
 syntax enable
 set background=dark
 " colorscheme skittles_dark
-colorscheme molokai
+colorscheme af
 
 set clipboard=unnamedplus,unnamed,exclude:cons\|linux 

@@ -1,9 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/Users/Guille/projects/octopi/app/views/accounting'
-let g:netrw_dirhist_2='/Users/Guille/projects/octopi/app/views/accounting/quickbooks'
-let g:netrw_dirhist_3='/Users/Guille/projects/octopi/app/views/accounting'
-let g:netrw_dirhist_4='/Users/Guille/projects/octopi'
-let g:netrw_dirhist_5='/Users/Guille'
-let g:netrw_dirhist_6='/Users/Guille/.vim'
-let g:netrw_dirhist_7='/Users/Guille/.vim/bundle'
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/Guille/.vim'
+let g:netrw_dirhist_2='/Users/Guille/.vim/colors'
+let g:netrw_dirhist_3='/Users/Guille/.vim'
